@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Kumail Ghadiali</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently working on [StudyNotion](https://github.com/KUMAIL261103/StudyNotion)
 
 - 🌱 I’m currently learning **ML , DSA**
 
@@ -10,7 +9,7 @@
 
 - 📫 How to reach me **kumailghadi2611@gmail.com**
 
-- ⚡ Fun fact **I am lazy and hard-working. Proud 1000 rated on chess.com**
+- ⚡ Fun fact **I am lazy and hard-working.(1500+ on codedcheff),(Proud 1000 rated on chess.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
